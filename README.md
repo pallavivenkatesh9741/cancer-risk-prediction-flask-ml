@@ -56,11 +56,11 @@ The dataset (`cancer.csv`) contains medical and environmental attributes related
 ---
 
 ## 🏗️ Project Structure
--│
--├── app.py
--├── cancer.csv
--├── README.md
--├── templates/
--│ └── index.html
--└── static/
--└── style.css (optional)
+- │
+- ├── app.py
+- ├── cancer.csv
+- ├── README.md
+- ├── templates/
+- │ └── index.html
+- └── static/
+- └── style.css (optional)
